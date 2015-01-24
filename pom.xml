@@ -11,7 +11,7 @@
     <packaging>jar</packaging>
     <groupId>org.webjars</groupId>
     <artifactId>webpack</artifactId>
-    <version>1.5.3-SNAPSHOT</version>
+    <version>1.5.3</version>
     <name>webpack</name>
     <description>WebJar for webpack</description>
     <url>http://webjars.org</url>
@@ -47,7 +47,7 @@
         <url>http://github.com/webjars/webpack</url>
         <connection>scm:git:https://github.com/webjars/webpack.git</connection>
         <developerConnection>scm:git:https://github.com/webjars/webpack.git</developerConnection>
-        <tag>HEAD</tag>
+        <tag>webpack-1.5.3</tag>
     </scm>
     
     <build>
